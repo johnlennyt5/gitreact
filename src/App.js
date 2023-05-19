@@ -6,6 +6,7 @@ function App() {
   <div>
     <h1>My First React.js File to Git</h1>
     <p>This is a paragraph in js.</p>
+    <button input={'text'}>Enter Name</button>
     </div>
   );
 }
